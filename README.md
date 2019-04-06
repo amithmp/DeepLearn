@@ -20,9 +20,7 @@
   
   ### Weight initialization: 
     he
-  
-  Data sets are expected to be in the format (features,examples)
- 
+   
  
    Example 1
    
