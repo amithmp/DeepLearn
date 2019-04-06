@@ -1,22 +1,28 @@
-    Deep learning functions for classification and regression
+# Deep learning functions for classification and regression
 
-  Activations supportd: relu, leakyrelu, tanh, sigmoid, softmax
+
+  ### Activations supportd: 
+    relu, leakyrelu, tanh, sigmoid, softmax
   
-  Regularizations supported: dropout, L2
+  ### Regularizations supported: 
+    dropout, L2
   
-  Optimizers supported: gradient descent, momentum, adam
+  ### Optimizers supported: 
+    gradient descent, momentum, adam
   
-  Cost functions supported: binary cross entropy cost (binary classification),
-                            categorical cross entropy (multiclass classification),
-                            mse and rmse (regression)
+  ### Cost functions supported: 
+    binary cross entropy cost (binary classification)
+    categorical cross entropy (multiclass classification)
+    mse and rmse (regression)
                             
-  Other features supported: mini batch, learning rate decay 
+  ### Other features supported: 
+    mini batch, learning rate decay 
   
-  Weight initialization: he
+  ### Weight initialization: 
+    he
   
   Data sets are expected to be in the format (features,examples)
  
-
  
    Example 1
    
